@@ -1,19 +1,39 @@
 fileFormatVersion: 2
 guid: 1807f8f91817fa643973b4d25e9abd18
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: holdable_block_0
-    21300002: holdable_block_1
-    21300004: holdable_block_2
-    21300006: holdable_block_3
-    21300008: holdable_block_4
-    21300010: holdable_block_5
-    21300012: holdable_block_6
-    21300014: holdable_block_7
-    21300016: holdable_block_8
-    21300018: holdable_block_9
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: holdable_block_0
+  - first:
+      213: 21300002
+    second: holdable_block_1
+  - first:
+      213: 21300004
+    second: holdable_block_2
+  - first:
+      213: 21300006
+    second: holdable_block_3
+  - first:
+      213: 21300008
+    second: holdable_block_4
+  - first:
+      213: 21300010
+    second: holdable_block_5
+  - first:
+      213: 21300012
+    second: holdable_block_6
+  - first:
+      213: 21300014
+    second: holdable_block_7
+  - first:
+      213: 21300016
+    second: holdable_block_8
+  - first:
+      213: 21300018
+    second: holdable_block_9
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -30,9 +50,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -42,8 +65,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -64,11 +87,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -79,7 +108,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -90,7 +120,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -101,6 +132,31 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -128,6 +184,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0ddad891fff2382409433099f12fe44d
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -156,6 +213,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 33846b7143b86794cb2764f94d42f228
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -176,6 +234,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 594e7621feade9a46be7cf014004eaf7
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -196,6 +255,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 760ca14363759a34ab21136a6b9c30d7
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -216,6 +276,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6aecc11d276232e4f8d0943f508c74cf
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -236,6 +297,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d427f7ab2cad93c45baa2a6bd76fee63
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -256,6 +318,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f290dd36715ddc46b797515998f73f0
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -276,6 +339,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5f22cef209a76a043b1e6cd82c8a3d5a
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -296,6 +360,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5a85a4199ebd1014ea1af3171953ec09
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -316,6 +381,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 999fdc0450bbc3d4eb8abb5114673f1c
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -324,13 +390,25 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: Particles
+    secondaryTextures: []
+    nameFileIdTable:
+      holdable_block_8: 21300016
+      holdable_block_6: 21300012
+      holdable_block_1: 21300002
+      holdable_block_3: 21300006
+      holdable_block_5: 21300010
+      holdable_block_7: 21300014
+      holdable_block_4: 21300008
+      holdable_block_0: 21300000
+      holdable_block_2: 21300004
+      holdable_block_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -489,10 +489,10 @@ public class hitBlockStore : MonoBehaviour {
 			map.RefreshTile(editTilePositions[i]);
 			else
 			{
-				EditorTile e = map.GetTile(editTilePositions[i]) as EditorTile;
-				e.m_SpriteCustomGame = customBrick;
-				e.sprite = customBrick;
-				map.RefreshTile(editTilePositions[i]);
+				//EditorTile e = map.GetTile(editTilePositions[i]) as EditorTile;
+				//e.m_SpriteCustomGame = customBrick;
+				//e.sprite = customBrick;
+				//map.RefreshTile(editTilePositions[i]);
 			}
 		}
 		for(int i = 0; i<editInvTilePositions.Count;i++)
