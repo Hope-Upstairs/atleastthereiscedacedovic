@@ -1,19 +1,39 @@
 fileFormatVersion: 2
 guid: ce66dcaa8c7181649b2d09f0176e4c18
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: gopnik_0
-    21300002: gopnik_1
-    21300004: gopnik_2
-    21300006: gopnik_3
-    21300008: gopnik_4
-    21300010: gopnik_5
-    21300012: gopnik_6
-    21300014: gopnik_7
-    21300016: gopnik_8
-    21300018: gopnik_9
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: gopnik_0
+  - first:
+      213: 21300002
+    second: gopnik_1
+  - first:
+      213: 21300004
+    second: gopnik_2
+  - first:
+      213: 21300006
+    second: gopnik_3
+  - first:
+      213: 21300008
+    second: gopnik_4
+  - first:
+      213: 21300010
+    second: gopnik_5
+  - first:
+      213: 21300012
+    second: gopnik_6
+  - first:
+      213: 21300014
+    second: gopnik_7
+  - first:
+      213: 21300016
+    second: gopnik_8
+  - first:
+      213: 21300018
+    second: gopnik_9
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -30,9 +50,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -42,8 +65,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -64,11 +87,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -79,7 +108,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -90,7 +120,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -101,6 +132,31 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -120,6 +176,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f373fe1732fe80643b6de0463686379f
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -140,6 +197,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 021d864bf9e703745a7352e8c506d9c2
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -160,6 +218,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a95a430241b908c4ca1cb2a20856aa0c
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -180,6 +239,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d83dce24b7a005c4c9a77262ffbd4d0b
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -200,6 +260,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6352ab4917487f6488fe552148198049
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -220,6 +281,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 646d59f53151547469a21145571dcb71
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -240,6 +302,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9915819ecdd6ba2418403f01e4c31829
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -260,6 +323,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8dbbd83927da29e4ea6b22a7f8395e44
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -280,6 +344,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a1916665cd7b9af4c937bc048fb9efef
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -300,6 +365,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 049c2c2fe8b9b604fa9d8054014bf092
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -308,13 +374,25 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 520d709aaba90c84f8b61c2b4498119a
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      gopnik_6: 21300012
+      gopnik_1: 21300002
+      gopnik_7: 21300014
+      gopnik_4: 21300008
+      gopnik_9: 21300018
+      gopnik_2: 21300004
+      gopnik_5: 21300010
+      gopnik_8: 21300016
+      gopnik_3: 21300006
+      gopnik_0: 21300000
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

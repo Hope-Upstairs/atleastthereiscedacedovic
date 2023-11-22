@@ -1,19 +1,39 @@
 fileFormatVersion: 2
 guid: 10fd68c8724f6804f82e79f75a0cbb57
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: shooting_skeleton_0
-    21300002: shooting_skeleton_1
-    21300004: shooting_skeleton_2
-    21300006: shooting_skeleton_3
-    21300008: shooting_skeleton_4
-    21300010: shooting_skeleton_5
-    21300012: shooting_skeleton_6
-    21300014: shooting_skeleton_7
-    21300016: shooting_skeleton_8
-    21300018: shooting_skeleton_9
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: shooting_skeleton_0
+  - first:
+      213: 21300002
+    second: shooting_skeleton_1
+  - first:
+      213: 21300004
+    second: shooting_skeleton_2
+  - first:
+      213: 21300006
+    second: shooting_skeleton_3
+  - first:
+      213: 21300008
+    second: shooting_skeleton_4
+  - first:
+      213: 21300010
+    second: shooting_skeleton_5
+  - first:
+      213: 21300012
+    second: shooting_skeleton_6
+  - first:
+      213: 21300014
+    second: shooting_skeleton_7
+  - first:
+      213: 21300016
+    second: shooting_skeleton_8
+  - first:
+      213: 21300018
+    second: shooting_skeleton_9
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -30,9 +50,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -42,8 +65,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -64,11 +87,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -79,7 +108,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -90,6 +120,31 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -109,6 +164,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6163ea18f64c2924d87fd9451a5b7ec1
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -129,6 +185,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f520d99e666bb9f4c8782f0edcc866b9
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -149,6 +206,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98260d81a4dacfa41a564feadd2c4956
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -169,6 +227,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef1fc4b9be00ec94e9f3b70344861907
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -189,6 +248,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ccddddcbf13fb9848bdc12edbbaa84d7
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -209,6 +269,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ed4a3aedda41044fa45d4ab0419a927
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -229,6 +290,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: acba6d19a3e554e45bd9f734696b84df
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -249,6 +311,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82bf3a7f2e4de374ea562a5ece9531ba
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -269,6 +332,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1fa57dd3877de8d428440ffdcb3ddb98
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -289,6 +353,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5db4ad133c8f5454596de61cb89fae00
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -297,13 +362,25 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: Enemies
+    secondaryTextures: []
+    nameFileIdTable:
+      shooting_skeleton_7: 21300014
+      shooting_skeleton_6: 21300012
+      shooting_skeleton_0: 21300000
+      shooting_skeleton_3: 21300006
+      shooting_skeleton_1: 21300002
+      shooting_skeleton_4: 21300008
+      shooting_skeleton_8: 21300016
+      shooting_skeleton_2: 21300004
+      shooting_skeleton_5: 21300010
+      shooting_skeleton_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
