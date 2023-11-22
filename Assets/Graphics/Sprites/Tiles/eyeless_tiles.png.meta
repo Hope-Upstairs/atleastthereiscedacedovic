@@ -1,57 +1,25 @@
 fileFormatVersion: 2
 guid: c9b4fb1f9ffad7e41aa7aa93c16d3212
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: eyeless_tiles_0
-  - first:
-      213: 21300002
-    second: eyeless_tiles_1
-  - first:
-      213: 21300004
-    second: eyeless_tiles_2
-  - first:
-      213: 21300006
-    second: eyeless_tiles_3
-  - first:
-      213: 21300008
-    second: eyeless_tiles_4
-  - first:
-      213: 21300010
-    second: eyeless_tiles_5
-  - first:
-      213: 21300012
-    second: eyeless_tiles_6
-  - first:
-      213: 21300014
-    second: eyeless_tiles_7
-  - first:
-      213: 21300016
-    second: eyeless_tiles_8
-  - first:
-      213: 21300018
-    second: eyeless_tiles_9
-  - first:
-      213: 21300020
-    second: eyeless_tiles_10
-  - first:
-      213: 21300022
-    second: eyeless_tiles_11
-  - first:
-      213: 21300024
-    second: eyeless_tiles_12
-  - first:
-      213: 21300026
-    second: eyeless_tiles_13
-  - first:
-      213: 21300028
-    second: eyeless_tiles_14
-  - first:
-      213: 21300030
-    second: eyeless_tiles_15
+  fileIDToRecycleName:
+    21300000: eyeless_tiles_0
+    21300002: eyeless_tiles_1
+    21300004: eyeless_tiles_2
+    21300006: eyeless_tiles_3
+    21300008: eyeless_tiles_4
+    21300010: eyeless_tiles_5
+    21300012: eyeless_tiles_6
+    21300014: eyeless_tiles_7
+    21300016: eyeless_tiles_8
+    21300018: eyeless_tiles_9
+    21300020: eyeless_tiles_10
+    21300022: eyeless_tiles_11
+    21300024: eyeless_tiles_12
+    21300026: eyeless_tiles_13
+    21300028: eyeless_tiles_14
+    21300030: eyeless_tiles_15
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -68,12 +36,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -83,8 +48,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -105,17 +70,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,8 +85,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -138,8 +96,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -150,31 +107,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -194,7 +126,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4fbd7628f8bc6dc40acfe4d5f15ac64c
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -215,7 +146,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 77bd76fb2dd11bf408b49c3430c127d2
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -236,7 +166,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 319f17e7bd55502409dfa5c1a8e13877
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -257,7 +186,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5fb748f5963231d4389de860f0e6bd54
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -278,7 +206,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 018395fe8da1f0e4ea33fd4b19def4a9
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -299,7 +226,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3c15844f6c2d78e489bc281e7ec83138
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -320,7 +246,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3b4df09d875ec8f4e9e27fe7991d0952
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -341,7 +266,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 19aed355cbd18124e8ae4b6619140cb0
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -362,7 +286,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c84c6876043e5304089bc0b7c0e5ca8c
-      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -383,7 +306,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d3598a597496700498ba546fb7b3c58a
-      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -404,7 +326,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ea378e7a7e03adf49bc890eddb7af967
-      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -425,7 +346,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3c8e97b85844ac4da0c2d87d8d9e7ee
-      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -446,7 +366,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1de20affd0cc7ec46a750880a5b7bb29
-      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -467,7 +386,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c138da1f67d1ff44bed33baf34b2ef7
-      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -488,7 +406,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5180137caf8c48149902d911d12f98b4
-      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -509,7 +426,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0dd0cf8c05bf9b643914b775e9db3f42
-      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -518,31 +434,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 8da167c306a119f4d8cc78085be1f96f
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      eyeless_tiles_14: 21300028
-      eyeless_tiles_11: 21300022
-      eyeless_tiles_1: 21300002
-      eyeless_tiles_5: 21300010
-      eyeless_tiles_4: 21300008
-      eyeless_tiles_13: 21300026
-      eyeless_tiles_9: 21300018
-      eyeless_tiles_2: 21300004
-      eyeless_tiles_7: 21300014
-      eyeless_tiles_12: 21300024
-      eyeless_tiles_10: 21300020
-      eyeless_tiles_8: 21300016
-      eyeless_tiles_3: 21300006
-      eyeless_tiles_0: 21300000
-      eyeless_tiles_6: 21300012
-      eyeless_tiles_15: 21300030
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

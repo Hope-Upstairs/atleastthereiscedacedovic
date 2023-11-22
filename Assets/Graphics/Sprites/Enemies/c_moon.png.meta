@@ -1,33 +1,17 @@
 fileFormatVersion: 2
 guid: dc65399dd86b38d41943eee50779a47a
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: c_moon_0
-  - first:
-      213: 21300002
-    second: c_moon_1
-  - first:
-      213: 21300004
-    second: c_moon_2
-  - first:
-      213: 21300006
-    second: c_moon_4
-  - first:
-      213: 21300008
-    second: c_moon_6
-  - first:
-      213: 21300010
-    second: c_moon_7
-  - first:
-      213: 21300012
-    second: c_moon_8
-  - first:
-      213: 21300014
-    second: c_moon_10
+  fileIDToRecycleName:
+    21300000: c_moon_0
+    21300002: c_moon_1
+    21300004: c_moon_2
+    21300006: c_moon_4
+    21300008: c_moon_6
+    21300010: c_moon_7
+    21300012: c_moon_8
+    21300014: c_moon_10
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -44,12 +28,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -59,8 +40,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -81,17 +62,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -102,8 +77,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -114,8 +88,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,31 +99,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -170,7 +118,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e60a2956f4fe51a4a87386a01ad0cf17
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -191,7 +138,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82837b549fad8be44a91cf26e2cefe35
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -212,7 +158,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab9617b446ff0d14480fc97a86870470
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -233,7 +178,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ca31f1e6c59421e4980edd3ceb84b968
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -254,7 +198,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 87878b25cd3179945adaec0bfe62b63c
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -275,7 +218,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6eeb6879dc0e72846a3836608929bf46
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -296,7 +238,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e2b1d9224f3a1dd4c94b39f53dc415af
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -317,7 +258,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 109936a482082f540ad1ad650bbc5221
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -326,23 +266,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 85795ddfcd4968d4ebda630cdd4ccab4
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      c_moon_6: 21300008
-      c_moon_10: 21300014
-      c_moon_2: 21300004
-      c_moon_0: 21300000
-      c_moon_8: 21300012
-      c_moon_7: 21300010
-      c_moon_1: 21300002
-      c_moon_4: 21300006
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

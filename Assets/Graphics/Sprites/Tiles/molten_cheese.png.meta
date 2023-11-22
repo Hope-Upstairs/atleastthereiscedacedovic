@@ -1,54 +1,24 @@
 fileFormatVersion: 2
 guid: e97c66d135c3bc644937e6b9828110dd
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: molten_cheese_0
-  - first:
-      213: 21300002
-    second: molten_cheese_1
-  - first:
-      213: 21300004
-    second: molten_cheese_2
-  - first:
-      213: 21300006
-    second: molten_cheese_3
-  - first:
-      213: 21300008
-    second: molten_cheese_4
-  - first:
-      213: 21300010
-    second: molten_cheese_5
-  - first:
-      213: 21300012
-    second: molten_cheese_6
-  - first:
-      213: 21300014
-    second: molten_cheese_7
-  - first:
-      213: 21300016
-    second: molten_cheese_8
-  - first:
-      213: 21300018
-    second: molten_cheese_9
-  - first:
-      213: 21300020
-    second: molten_cheese_10
-  - first:
-      213: 21300022
-    second: molten_cheese_11
-  - first:
-      213: 21300024
-    second: molten_cheese_12
-  - first:
-      213: 21300026
-    second: molten_cheese_13
-  - first:
-      213: 21300028
-    second: molten_cheese_14
+  fileIDToRecycleName:
+    21300000: molten_cheese_0
+    21300002: molten_cheese_1
+    21300004: molten_cheese_2
+    21300006: molten_cheese_3
+    21300008: molten_cheese_4
+    21300010: molten_cheese_5
+    21300012: molten_cheese_6
+    21300014: molten_cheese_7
+    21300016: molten_cheese_8
+    21300018: molten_cheese_9
+    21300020: molten_cheese_10
+    21300022: molten_cheese_11
+    21300024: molten_cheese_12
+    21300026: molten_cheese_13
+    21300028: molten_cheese_14
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -65,12 +35,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -80,8 +47,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -102,17 +69,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -123,8 +84,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -135,31 +95,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -183,7 +118,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a090e6782b192584b9ea5010727ca1c0
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -208,7 +142,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: beb55e8da9f18bb4d945393cb235e53a
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -233,7 +166,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eaca9b66d97bcb044ab2984c74991c5e
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -258,7 +190,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fd8429adecd852f4ca962769ecc60cbe
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -283,7 +214,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 93371f00c7bff4f4a9dee9545b84ef7c
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -304,7 +234,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d13fb7d689410094c8253d604401c3fc
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -325,7 +254,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9144ccd8cbed131429e5d7947f7a92d0
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -346,7 +274,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a717ae3d7cb1ed49a3966e247cc7e63
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -367,7 +294,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2372c6f6137753e4db6dbdbee44b8a38
-      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -388,7 +314,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9718ca6400550d04092f3f813127fd71
-      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -409,7 +334,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 049bf2be8e306c04295f24bfeb721ca4
-      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -430,7 +354,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9047be50e9303704da093d74c570bf8b
-      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -451,7 +374,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1edfeb931eaaa384193772741976a520
-      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -476,7 +398,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be459d0354b868b49bce2068785b5e42
-      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -501,7 +422,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5821f443feba7d43bfd5a4aac9b2fb8
-      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -510,30 +430,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 0c84779f1a2d2264c85a6a40a2cfcf11
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      molten_cheese_8: 21300016
-      molten_cheese_12: 21300024
-      molten_cheese_14: 21300028
-      molten_cheese_5: 21300010
-      molten_cheese_2: 21300004
-      molten_cheese_9: 21300018
-      molten_cheese_13: 21300026
-      molten_cheese_11: 21300022
-      molten_cheese_6: 21300012
-      molten_cheese_4: 21300008
-      molten_cheese_3: 21300006
-      molten_cheese_10: 21300020
-      molten_cheese_0: 21300000
-      molten_cheese_7: 21300014
-      molten_cheese_1: 21300002
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

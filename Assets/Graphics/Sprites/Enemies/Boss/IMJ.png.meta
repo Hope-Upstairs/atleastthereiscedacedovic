@@ -1,135 +1,53 @@
 fileFormatVersion: 2
 guid: e4df8ab5230437245982be7d2041b81a
+timeCreated: 1542048047
+licenseType: Free
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: IMJ_0
-  - first:
-      213: 21300002
-    second: IMJ_1
-  - first:
-      213: 21300004
-    second: IMJ_2
-  - first:
-      213: 21300006
-    second: IMJ_3
-  - first:
-      213: 21300008
-    second: IMJ_4
-  - first:
-      213: 21300010
-    second: IMJ_5
-  - first:
-      213: 21300012
-    second: IMJ_6
-  - first:
-      213: 21300014
-    second: IMJ_7
-  - first:
-      213: 21300016
-    second: IMJ_8
-  - first:
-      213: 21300018
-    second: IMJ_9
-  - first:
-      213: 21300020
-    second: IMJ_10
-  - first:
-      213: 21300022
-    second: IMJ_11
-  - first:
-      213: 21300024
-    second: IMJ_12
-  - first:
-      213: 21300026
-    second: IMJ_13
-  - first:
-      213: 21300028
-    second: IMJ_14
-  - first:
-      213: 21300030
-    second: IMJ_15
-  - first:
-      213: 21300032
-    second: IMJ_16
-  - first:
-      213: 21300034
-    second: IMJ_17
-  - first:
-      213: 21300036
-    second: IMJ_18
-  - first:
-      213: 21300038
-    second: IMJ_19
-  - first:
-      213: 21300040
-    second: IMJ_20
-  - first:
-      213: 21300042
-    second: IMJ_21
-  - first:
-      213: 21300044
-    second: IMJ_22
-  - first:
-      213: 21300046
-    second: IMJ_23
-  - first:
-      213: 21300048
-    second: IMJ_24
-  - first:
-      213: 21300050
-    second: IMJ_25
-  - first:
-      213: 21300052
-    second: IMJ_26
-  - first:
-      213: 21300054
-    second: IMJ_27
-  - first:
-      213: 21300056
-    second: IMJ_28
-  - first:
-      213: 21300058
-    second: IMJ_29
-  - first:
-      213: 21300060
-    second: IMJ_30
-  - first:
-      213: 21300062
-    second: IMJ_31
-  - first:
-      213: 21300064
-    second: IMJ_32
-  - first:
-      213: 21300066
-    second: IMJ_33
-  - first:
-      213: 21300068
-    second: IMJ_34
-  - first:
-      213: 21300070
-    second: IMJ_35
-  - first:
-      213: 21300072
-    second: IMJ_36
-  - first:
-      213: 21300074
-    second: IMJ_37
-  - first:
-      213: 21300076
-    second: IMJ_38
-  - first:
-      213: 21300078
-    second: IMJ_39
-  - first:
-      213: 21300080
-    second: IMJ_41
-  - first:
-      213: 21300082
-    second: IMJ_40
+  fileIDToRecycleName:
+    21300000: IMJ_0
+    21300002: IMJ_1
+    21300004: IMJ_2
+    21300006: IMJ_3
+    21300008: IMJ_4
+    21300010: IMJ_5
+    21300012: IMJ_6
+    21300014: IMJ_7
+    21300016: IMJ_8
+    21300018: IMJ_9
+    21300020: IMJ_10
+    21300022: IMJ_11
+    21300024: IMJ_12
+    21300026: IMJ_13
+    21300028: IMJ_14
+    21300030: IMJ_15
+    21300032: IMJ_16
+    21300034: IMJ_17
+    21300036: IMJ_18
+    21300038: IMJ_19
+    21300040: IMJ_20
+    21300042: IMJ_21
+    21300044: IMJ_22
+    21300046: IMJ_23
+    21300048: IMJ_24
+    21300050: IMJ_25
+    21300052: IMJ_26
+    21300054: IMJ_27
+    21300056: IMJ_28
+    21300058: IMJ_29
+    21300060: IMJ_30
+    21300062: IMJ_31
+    21300064: IMJ_32
+    21300066: IMJ_33
+    21300068: IMJ_34
+    21300070: IMJ_35
+    21300072: IMJ_36
+    21300074: IMJ_37
+    21300076: IMJ_38
+    21300078: IMJ_39
+    21300080: IMJ_41
+    21300082: IMJ_40
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -146,12 +64,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -161,8 +74,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -1
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -174,27 +87,18 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 32
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -204,9 +108,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -216,31 +118,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -258,13 +135,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_1
       rect:
@@ -279,13 +149,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_2
       rect:
@@ -300,13 +163,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_3
       rect:
@@ -321,13 +177,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_4
       rect:
@@ -342,13 +191,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_5
       rect:
@@ -363,13 +205,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_6
       rect:
@@ -384,13 +219,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_7
       rect:
@@ -405,13 +233,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_8
       rect:
@@ -426,13 +247,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_9
       rect:
@@ -447,13 +261,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_10
       rect:
@@ -468,13 +275,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_11
       rect:
@@ -489,13 +289,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_12
       rect:
@@ -510,13 +303,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_13
       rect:
@@ -531,13 +317,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_14
       rect:
@@ -552,13 +331,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_15
       rect:
@@ -573,13 +345,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_16
       rect:
@@ -594,13 +359,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_17
       rect:
@@ -615,13 +373,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_18
       rect:
@@ -636,13 +387,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_19
       rect:
@@ -657,13 +401,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_20
       rect:
@@ -678,13 +415,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_21
       rect:
@@ -699,13 +429,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_22
       rect:
@@ -720,13 +443,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_23
       rect:
@@ -741,13 +457,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_24
       rect:
@@ -762,13 +471,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_25
       rect:
@@ -783,13 +485,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_26
       rect:
@@ -804,13 +499,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_27
       rect:
@@ -825,13 +513,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_28
       rect:
@@ -846,13 +527,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_29
       rect:
@@ -867,13 +541,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_30
       rect:
@@ -888,13 +555,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_31
       rect:
@@ -909,13 +569,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_32
       rect:
@@ -930,13 +583,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_33
       rect:
@@ -951,13 +597,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_34
       rect:
@@ -972,13 +611,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_35
       rect:
@@ -993,13 +625,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_36
       rect:
@@ -1014,13 +639,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_37
       rect:
@@ -1035,13 +653,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_38
       rect:
@@ -1056,13 +667,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_39
       rect:
@@ -1077,13 +681,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_41
       rect:
@@ -1098,13 +695,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMJ_40
       rect:
@@ -1119,68 +709,9 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      IMJ_0: 21300000
-      IMJ_34: 21300068
-      IMJ_29: 21300058
-      IMJ_3: 21300006
-      IMJ_32: 21300064
-      IMJ_6: 21300012
-      IMJ_15: 21300030
-      IMJ_8: 21300016
-      IMJ_20: 21300040
-      IMJ_24: 21300048
-      IMJ_36: 21300072
-      IMJ_26: 21300052
-      IMJ_11: 21300022
-      IMJ_12: 21300024
-      IMJ_10: 21300020
-      IMJ_37: 21300074
-      IMJ_28: 21300056
-      IMJ_41: 21300080
-      IMJ_19: 21300038
-      IMJ_39: 21300078
-      IMJ_25: 21300050
-      IMJ_30: 21300060
-      IMJ_18: 21300036
-      IMJ_7: 21300014
-      IMJ_40: 21300082
-      IMJ_22: 21300044
-      IMJ_9: 21300018
-      IMJ_38: 21300076
-      IMJ_27: 21300054
-      IMJ_1: 21300002
-      IMJ_14: 21300028
-      IMJ_17: 21300034
-      IMJ_16: 21300032
-      IMJ_33: 21300066
-      IMJ_31: 21300062
-      IMJ_4: 21300008
-      IMJ_35: 21300070
-      IMJ_13: 21300026
-      IMJ_2: 21300004
-      IMJ_23: 21300046
-      IMJ_5: 21300010
-      IMJ_21: 21300042
-  mipmapLimitGroupName: 
-  pSDRemoveMatte: 0
+  spritePackingTag: 
   userData: 
   assetBundleName: 
   assetBundleVariant: 

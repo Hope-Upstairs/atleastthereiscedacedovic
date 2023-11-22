@@ -21,7 +21,7 @@ SpriteAtlas:
       crunchedCompression: 0
       sRGB: 1
     platformSettings:
-    - serializedVersion: 3
+    - serializedVersion: 2
       m_BuildTarget: Standalone
       m_MaxTextureSize: 1024
       m_ResizeAlgorithm: 0
@@ -32,8 +32,7 @@ SpriteAtlas:
       m_AllowsAlphaSplitting: 0
       m_Overridden: 1
       m_AndroidETC2FallbackOverride: 0
-      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
-    - serializedVersion: 3
+    - serializedVersion: 2
       m_BuildTarget: DefaultTexturePlatform
       m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
@@ -44,7 +43,6 @@ SpriteAtlas:
       m_AllowsAlphaSplitting: 0
       m_Overridden: 0
       m_AndroidETC2FallbackOverride: 0
-      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
     packingSettings:
       serializedVersion: 2
       padding: 2
@@ -52,81 +50,13 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
-      enableAlphaDilation: 0
-    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 937dcfbf60c351f43924fe752ef0b680, type: 3}
     - {fileID: 102900000, guid: 6b2894d3e5fa5204eb692482f06ef230, type: 3}
     - {fileID: 102900000, guid: 7a774f61b87432040bca69bdf8f61ecf, type: 3}
+    totalSpriteSurfaceArea: 1873724
     bindAsDefault: 1
-    isAtlasV2: 0
-    cachedData: {fileID: 0}
-    packedSpriteRenderDataKeys:
-    - 961ac910f32c8624ea798973163c2892: 21300000
-    - 32e6e520901fecb4aaeb2566192eb9ba: 21300000
-    - f0e00f20f1e869d43bf5e1cf36f9cd83: 21300000
-    - 1a6109402b3778e489f5c5f6855675ab: 21300000
-    - 56a4d9a0fc634b54f8b1330930417e04: 21300000
-    - e0ae00c02c9ac144a922d7c150cac774: 21300000
-    - 489af81106cbe434cb782c5dd4efb4f8: 21300000
-    - 2448ca2193b42b84c937bc8f0be27e58: 21300000
-    - a0c2eac10ba2f0f4498bf2ceadb23888: 21300000
-    - 723bc2e1ce712f74cacc173f13a71d7f: 21300000
-    - 4ecbf8323a649164b88680aa90be2659: 21300000
-    - 9a81e192fb2c45046b36435c961193c6: 21300000
-    - 7584e5d2c6e37a8488fb455cb2767231: 21300000
-    - 8517e7136e4b2c741a464d414a90c426: 21300000
-    - b817ae136da62da46a6e7e1033d65331: 21300000
-    - 22979433d796be74eaaa1cdda2de9c7e: 21300000
-    - 9d504bd3ee9306e4fab7fe46534361d9: 21300000
-    - f1b56024cd9fe4e4aa9f64f0ba2cceaa: 21300000
-    - 3e1b81c4f70fc1143b9d317871f1304e: 21300000
-    - c0975ec5105069c478387eedb51f2f6b: 21300000
-    - eaa900e5640cb55459d90740ab4b53cd: 21300000
-    - 184e2f365c598424db6ae8638cbee6c6: 21300000
-    - 47f1cc460de0fc1448e2d1527240589c: 21300000
-    - 9072f176d7786f741a18d1f03191b713: 21300000
-    - be0d2f862ea45254b8a5e04cf0cd06f5: 21300000
-    - f025f9f6303d0054397f5373c2d1299e: 21300000
-    - 721b180765e605f4c8b16efeb91be499: 21300000
-    - 7f6a60374a6f76b4aab30aca03fc219e: 21300000
-    - 2e213c57d2a971746a8ddcd8501199c1: 21300000
-    - bcf947670ba54c1489eb01655d3700db: 21300000
-    - 14399dc7746d1fb42b1f52058e4b22c8: 21300000
-    - d52b0d08e61fe624bb6059551259c72a: 21300000
-    - a91d9418483feb94f9cb597b2c16b815: 21300000
-    - 5eb0a81858aefbf4dbc00ab884b13518: 21300000
-    - e14635581dcef37499ed814223b4fe2a: 21300000
-    - 64f3bf78ca4a46a42a17e46ce1b5104e: 21300000
-    - ca3b2cd8ec4d12c478592c8e376825a1: 21300000
-    - 14ca8c494f456824bbec465d733fbdd5: 21300000
-    - 15418b89e1da87640a1b5b20e2dcbc92: 21300000
-    - 25f6a39972780c5479712d289826fb70: 21300000
-    - fbb9dfc9d48caf747a93249f33f80e35: 21300000
-    - e0a3fd8a70666f9448f44288b224a19c: 21300000
-    - 05bf4aaa1a000f9459edd55ceab5f963: 21300000
-    - e96cf9dac67e84944bb0575cddda8b49: 21300000
-    - 9a11d56b53ebee943b967764303e0384: 21300000
-    - e5caeb0ca02fcb3429978094ee4759cf: 21300000
-    - 3f3dfe0cbfc7c2a42b58f52aab629a85: 21300000
-    - a927506c0890e6d48be65fed34842244: 21300000
-    - 200a496ca86b39c44bb997d1ea314889: 21300000
-    - b415aa6ce93cf654e96cfe8202825622: 21300000
-    - 880ddffc7e828fa40b907fb3b8d2dc69: 21300000
-    - c46db66da25ef794ebb27ead44618bce: 21300000
-    - fab6838d573ae9c40adcd61fa9bbb93a: 21300000
-    - f845d8ed275c27c4da63aa0b344b8752: 21300000
-    - cb6bc9ed1f167e74caf1327bab3b8df4: 21300000
-    - aa29ce2eb143bc14682ecc9fa3c12df0: 21300000
-    - ba03774e7d479b44b88901963ce54093: 21300000
-    - c44ce65eefa9a7c47ad4adaa9537afd8: 21300000
-    - 9aa96c3f44ade954eb4eb201542cf726: 21300000
-    - 515efc3f4ce24cd478a3f7f2c1b23afa: 21300000
-    - 9843bb4fcb59c09458a9068c02e0c8fa: 21300000
-    - 9ab0c17fa28acd946be4718ee384929a: 21300000
-    - e00fa0afa6237e8488ac74d8e092dbf7: 21300000
-    - 586fb3effbf6eda46a029b1af9bc6819: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 961ac910f32c8624ea798973163c2892, type: 3}
@@ -258,6 +188,5 @@ SpriteAtlas:
   - Murphy Portrait
   - mixtape portrait
   - MariObama Portrait
-  m_RenderDataMap: {}
   m_Tag: LoreBookProfiles
   m_IsVariant: 0

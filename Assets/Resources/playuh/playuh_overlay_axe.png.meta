@@ -1,141 +1,53 @@
 fileFormatVersion: 2
 guid: eeb965a774c00d14491ceebcb3e5427b
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: ceda_overlay_axe_0
-  - first:
-      213: 21300002
-    second: ceda_overlay_axe_1
-  - first:
-      213: 21300004
-    second: ceda_overlay_axe_2
-  - first:
-      213: 21300006
-    second: ceda_overlay_axe_3
-  - first:
-      213: 21300008
-    second: ceda_overlay_axe_4
-  - first:
-      213: 21300010
-    second: ceda_overlay_axe_5
-  - first:
-      213: 21300012
-    second: ceda_overlay_axe_6
-  - first:
-      213: 21300014
-    second: ceda_overlay_axe_7
-  - first:
-      213: 21300016
-    second: ceda_overlay_axe_8
-  - first:
-      213: 21300018
-    second: ceda_overlay_axe_9
-  - first:
-      213: 21300020
-    second: ceda_overlay_axe_10
-  - first:
-      213: 21300022
-    second: ceda_overlay_axe_11
-  - first:
-      213: 21300024
-    second: ceda_overlay_axe_12
-  - first:
-      213: 21300026
-    second: ceda_overlay_axe_13
-  - first:
-      213: 21300028
-    second: ceda_overlay_axe_14
-  - first:
-      213: 21300030
-    second: ceda_overlay_axe_15
-  - first:
-      213: 21300032
-    second: ceda_overlay_axe_16
-  - first:
-      213: 21300034
-    second: ceda_overlay_axe_17
-  - first:
-      213: 21300036
-    second: ceda_overlay_axe_18
-  - first:
-      213: 21300038
-    second: ceda_overlay_axe_19
-  - first:
-      213: 21300040
-    second: ceda_overlay_axe_20
-  - first:
-      213: 21300042
-    second: ceda_overlay_axe_21
-  - first:
-      213: 21300044
-    second: ceda_overlay_axe_22
-  - first:
-      213: 21300046
-    second: ceda_overlay_axe_23
-  - first:
-      213: 21300048
-    second: ceda_overlay_axe_24
-  - first:
-      213: 21300050
-    second: ceda_overlay_axe_25
-  - first:
-      213: 21300052
-    second: ceda_overlay_axe_26
-  - first:
-      213: 21300054
-    second: ceda_overlay_axe_27
-  - first:
-      213: 21300056
-    second: ceda_overlay_axe_28
-  - first:
-      213: 21300058
-    second: ceda_overlay_axe_29
-  - first:
-      213: 21300060
-    second: ceda_overlay_axe_30
-  - first:
-      213: 21300062
-    second: ceda_overlay_axe_31
-  - first:
-      213: 21300064
-    second: ceda_overlay_axe_32
-  - first:
-      213: 21300066
-    second: ceda_overlay_axe_33
-  - first:
-      213: 21300068
-    second: ceda_overlay_axe_34
-  - first:
-      213: 21300070
-    second: ceda_overlay_axe_35
-  - first:
-      213: 21300072
-    second: ceda_overlay_axe_36
-  - first:
-      213: 21300074
-    second: ceda_overlay_axe_37
-  - first:
-      213: 21300076
-    second: ceda_overlay_axe_38
-  - first:
-      213: 21300078
-    second: ceda_overlay_axe_39
-  - first:
-      213: 21300080
-    second: ceda_overlay_axe_40
-  - first:
-      213: 21300082
-    second: ceda_overlay_axe_41
-  - first:
-      213: 21300084
-    second: ceda_overlay_axe_42
-  - first:
-      213: 21300086
-    second: ceda_overlay_axe_43
+  fileIDToRecycleName:
+    21300000: ceda_overlay_axe_0
+    21300002: ceda_overlay_axe_1
+    21300004: ceda_overlay_axe_2
+    21300006: ceda_overlay_axe_3
+    21300008: ceda_overlay_axe_4
+    21300010: ceda_overlay_axe_5
+    21300012: ceda_overlay_axe_6
+    21300014: ceda_overlay_axe_7
+    21300016: ceda_overlay_axe_8
+    21300018: ceda_overlay_axe_9
+    21300020: ceda_overlay_axe_10
+    21300022: ceda_overlay_axe_11
+    21300024: ceda_overlay_axe_12
+    21300026: ceda_overlay_axe_13
+    21300028: ceda_overlay_axe_14
+    21300030: ceda_overlay_axe_15
+    21300032: ceda_overlay_axe_16
+    21300034: ceda_overlay_axe_17
+    21300036: ceda_overlay_axe_18
+    21300038: ceda_overlay_axe_19
+    21300040: ceda_overlay_axe_20
+    21300042: ceda_overlay_axe_21
+    21300044: ceda_overlay_axe_22
+    21300046: ceda_overlay_axe_23
+    21300048: ceda_overlay_axe_24
+    21300050: ceda_overlay_axe_25
+    21300052: ceda_overlay_axe_26
+    21300054: ceda_overlay_axe_27
+    21300056: ceda_overlay_axe_28
+    21300058: ceda_overlay_axe_29
+    21300060: ceda_overlay_axe_30
+    21300062: ceda_overlay_axe_31
+    21300064: ceda_overlay_axe_32
+    21300066: ceda_overlay_axe_33
+    21300068: ceda_overlay_axe_34
+    21300070: ceda_overlay_axe_35
+    21300072: ceda_overlay_axe_36
+    21300074: ceda_overlay_axe_37
+    21300076: ceda_overlay_axe_38
+    21300078: ceda_overlay_axe_39
+    21300080: ceda_overlay_axe_40
+    21300082: ceda_overlay_axe_41
+    21300084: ceda_overlay_axe_42
+    21300086: ceda_overlay_axe_43
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -152,12 +64,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -167,8 +76,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -189,17 +98,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -210,8 +113,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -222,31 +124,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -266,7 +143,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 945c47429318728479122c2643655793
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -287,7 +163,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a26b891d3d7b2584da29fe999f7eacfe
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -308,7 +183,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 23ddc24db4b5b814187f8aa89609f407
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -329,7 +203,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a64fb0a2311467c408c927c0087990fa
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -350,7 +223,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa69190902d8ab04d947327e05f98651
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -371,7 +243,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e023e89e2e0a5544db76f2b40a916422
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -392,7 +263,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9980211b25034bb488748d505f108c23
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -413,7 +283,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a164875f140bf23439b0bab40e84bd43
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -434,7 +303,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f408c225d2a155344904736ac0406eaa
-      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -455,7 +323,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 132aeff61414b9c48aa06ff3a39547f2
-      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -476,7 +343,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0825ba0f74212e649a1f05b1e8008967
-      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -497,7 +363,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82b3e927a4f238b44aaca8d66003125c
-      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -518,7 +383,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b2baa211de5cf464a9325bf02c9cd23f
-      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -539,7 +403,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c85067a35995dae4dbd3edba0f72ce6f
-      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -560,7 +423,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 640d24351fbcf83418c178ba5ef6201d
-      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -581,7 +443,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7d4d99358d0b7a0469c0b6d5dd08c26e
-      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -602,7 +463,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3f3c6d53b4216bf46ad69b750b24ef6c
-      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -623,7 +483,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ae46baf3b5300464fb2f96df4d72bd11
-      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -644,7 +503,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 337bb397721478a448daeb5b9af6e3b0
-      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -665,7 +523,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e23349144aa30c149bbcda0868cc9165
-      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -686,7 +543,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e28f4ea88ec3cc743887feaface9d32c
-      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -707,7 +563,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6b964ff62b33c924ab0ff3b204de9347
-      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -728,7 +583,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6aa08fdb3306355499b5f9c9a2bc9b49
-      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -749,7 +603,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 039417fdb56564d4eaf4b5bd09a746ad
-      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -770,7 +623,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d8ae379941c8d9b43b61135a200db792
-      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -791,7 +643,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 035fc371e049c0743b5b8ff980c1e69f
-      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -816,7 +667,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c02d48319e95c6c4c9164eb5f0ca9cb4
-      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -841,7 +691,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb87050b69ef46248ac9ca17e17b53cf
-      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -866,7 +715,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a1191aefe8f95404a9ff6a4c3282741d
-      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -887,7 +735,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 43791ebcb38025e46ae9b3a31037e6e8
-      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -908,7 +755,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6daba7816b3f8a743a0930bd287a3069
-      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -929,7 +775,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2a94f085a4f8db743a1f48a0f46ecd79
-      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -950,7 +795,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5d2fef31cceb64e4aaa2ee04d59cea8a
-      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -971,7 +815,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48391f70a4741244e948bf83f784b963
-      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -992,7 +835,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 18aef4bcbed9ba14a889c57bc941fc6b
-      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -1013,7 +855,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f36338045d8eac04d85b24d89fad6f5f
-      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -1034,7 +875,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49d4a265aeb5acd49a84f19d847e503a
-      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -1055,7 +895,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9e7a317c9b8a4174dbad076e56c6e6b6
-      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1076,7 +915,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fb5b579c165a2584a82c01c1bf7d7c17
-      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1097,7 +935,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 73ec8365b4971e747b9b4644d9789028
-      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1118,7 +955,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a0ae9b2c31a14a74e838d4baed1f7cb4
-      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1139,7 +975,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 02e363051d0af414f848f0218a8065a5
-      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1148,57 +983,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: c84a181e702d94f4e935b2636b46e2ce
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      ceda_overlay_axe_36: 21300072
-      ceda_overlay_axe_28: 21300056
-      ceda_overlay_axe_29: 21300058
-      ceda_overlay_axe_13: 21300026
-      ceda_overlay_axe_41: 21300082
-      ceda_overlay_axe_30: 21300060
-      ceda_overlay_axe_26: 21300052
-      ceda_overlay_axe_31: 21300062
-      ceda_overlay_axe_4: 21300008
-      ceda_overlay_axe_22: 21300044
-      ceda_overlay_axe_34: 21300068
-      ceda_overlay_axe_38: 21300076
-      ceda_overlay_axe_12: 21300024
-      ceda_overlay_axe_15: 21300030
-      ceda_overlay_axe_24: 21300048
-      ceda_overlay_axe_37: 21300074
-      ceda_overlay_axe_1: 21300002
-      ceda_overlay_axe_21: 21300042
-      ceda_overlay_axe_20: 21300040
-      ceda_overlay_axe_3: 21300006
-      ceda_overlay_axe_8: 21300016
-      ceda_overlay_axe_2: 21300004
-      ceda_overlay_axe_40: 21300080
-      ceda_overlay_axe_6: 21300012
-      ceda_overlay_axe_27: 21300054
-      ceda_overlay_axe_9: 21300018
-      ceda_overlay_axe_10: 21300020
-      ceda_overlay_axe_33: 21300066
-      ceda_overlay_axe_17: 21300034
-      ceda_overlay_axe_35: 21300070
-      ceda_overlay_axe_23: 21300046
-      ceda_overlay_axe_5: 21300010
-      ceda_overlay_axe_25: 21300050
-      ceda_overlay_axe_14: 21300028
-      ceda_overlay_axe_43: 21300086
-      ceda_overlay_axe_18: 21300036
-      ceda_overlay_axe_32: 21300064
-      ceda_overlay_axe_19: 21300038
-      ceda_overlay_axe_7: 21300014
-      ceda_overlay_axe_0: 21300000
-      ceda_overlay_axe_16: 21300032
-      ceda_overlay_axe_11: 21300022
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

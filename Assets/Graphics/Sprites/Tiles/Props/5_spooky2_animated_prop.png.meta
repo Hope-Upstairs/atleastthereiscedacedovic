@@ -1,36 +1,18 @@
 fileFormatVersion: 2
 guid: 743d606c296518a45a932c30c8da4fcd
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 5_spooky2_animated_prop_0
-  - first:
-      213: 21300002
-    second: 5_spooky2_animated_prop_2
-  - first:
-      213: 21300004
-    second: 5_spooky2_animated_prop_4
-  - first:
-      213: 21300006
-    second: 5_spooky2_animated_prop_6
-  - first:
-      213: 21300008
-    second: 5_spooky2_animated_prop_8
-  - first:
-      213: 21300010
-    second: 5_spooky2_animated_prop_10
-  - first:
-      213: 21300012
-    second: 5_spooky2_animated_prop_12
-  - first:
-      213: 21300014
-    second: 5_spooky2_animated_prop_14
-  - first:
-      213: 21300016
-    second: 5_spooky2_animated_prop_16
+  fileIDToRecycleName:
+    21300000: 5_spooky2_animated_prop_0
+    21300002: 5_spooky2_animated_prop_2
+    21300004: 5_spooky2_animated_prop_4
+    21300006: 5_spooky2_animated_prop_6
+    21300008: 5_spooky2_animated_prop_8
+    21300010: 5_spooky2_animated_prop_10
+    21300012: 5_spooky2_animated_prop_12
+    21300014: 5_spooky2_animated_prop_14
+    21300016: 5_spooky2_animated_prop_16
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,12 +29,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -62,8 +41,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -84,17 +63,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -105,8 +78,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -117,8 +89,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -129,31 +100,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -173,7 +119,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 24e747fc6266ce44e857ad7d866819b7
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -194,7 +139,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49e80eb19835e6046814b529304ca044
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -215,7 +159,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3dee6cdf3299b64a8cd9717ee542afa
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -236,7 +179,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e1a3db892b960c43b216065087eec13
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -257,7 +199,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b67a8abf4e95f3344939f34146665300
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -278,7 +219,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 550111b46149a5144b54d6070152575c
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -299,7 +239,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ec36bd7738db0d84595b269d287c8d9c
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -320,7 +259,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 728261352a58ed44cbf14f25242f1cd3
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -341,7 +279,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b337970a8fee11945bbc39acdafc40cf
-      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -350,24 +287,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 79224b1639a65e240937a714b08c6754
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      5_spooky2_animated_prop_0: 21300000
-      5_spooky2_animated_prop_16: 21300016
-      5_spooky2_animated_prop_4: 21300004
-      5_spooky2_animated_prop_8: 21300008
-      5_spooky2_animated_prop_14: 21300014
-      5_spooky2_animated_prop_10: 21300010
-      5_spooky2_animated_prop_6: 21300006
-      5_spooky2_animated_prop_12: 21300012
-      5_spooky2_animated_prop_2: 21300002
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

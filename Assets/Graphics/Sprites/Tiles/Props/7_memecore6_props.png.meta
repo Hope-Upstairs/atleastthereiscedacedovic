@@ -1,39 +1,19 @@
 fileFormatVersion: 2
 guid: 1ff6e89b6efd52943aa66edeb310cf0c
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 7_memecore6_props_0
-  - first:
-      213: 21300002
-    second: 7_memecore6_props_1
-  - first:
-      213: 21300004
-    second: 7_memecore6_props_2
-  - first:
-      213: 21300006
-    second: 7_memecore6_props_3
-  - first:
-      213: 21300008
-    second: 7_memecore6_props_4
-  - first:
-      213: 21300010
-    second: 7_memecore6_props_5
-  - first:
-      213: 21300012
-    second: 7_memecore6_props_6
-  - first:
-      213: 21300014
-    second: 7_memecore6_props_7
-  - first:
-      213: 21300016
-    second: 7_memecore6_props_8
-  - first:
-      213: 21300018
-    second: 7_memecore6_props_9
+  fileIDToRecycleName:
+    21300000: 7_memecore6_props_0
+    21300002: 7_memecore6_props_1
+    21300004: 7_memecore6_props_2
+    21300006: 7_memecore6_props_3
+    21300008: 7_memecore6_props_4
+    21300010: 7_memecore6_props_5
+    21300012: 7_memecore6_props_6
+    21300014: 7_memecore6_props_7
+    21300016: 7_memecore6_props_8
+    21300018: 7_memecore6_props_9
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -50,12 +30,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -65,8 +42,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -87,17 +64,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -108,8 +79,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -120,8 +90,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -132,31 +101,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -176,7 +120,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 15716ecb76aab154f92412fac0cefbff
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -197,7 +140,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f178e81ca3df5841873403f13905556
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -218,7 +160,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 01782c13da55fd046b986299227e8a34
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -239,7 +180,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a8fefedf51f4704c85cee12754578fe
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -260,7 +200,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6623d2b8670e9ef41b301ceeb04df031
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -281,7 +220,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49b8fe32a36d7454d9526b3da027aa33
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -302,7 +240,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a7fc82720de1e642bcbe4c67c7eeebe
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -323,7 +260,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 31e1578b01ec5fe49a8f39c0667502e1
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -344,7 +280,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 97dff1adc911f9b4b9d11e44822c5f36
-      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -365,7 +300,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 92fda8de7600e8448aaa17a17c720644
-      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -374,25 +308,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 391a26e11a6f9e74eae85646aefe4beb
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      7_memecore6_props_1: 21300002
-      7_memecore6_props_9: 21300018
-      7_memecore6_props_8: 21300016
-      7_memecore6_props_0: 21300000
-      7_memecore6_props_4: 21300008
-      7_memecore6_props_2: 21300004
-      7_memecore6_props_3: 21300006
-      7_memecore6_props_7: 21300014
-      7_memecore6_props_6: 21300012
-      7_memecore6_props_5: 21300010
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,39 +1,19 @@
 fileFormatVersion: 2
 guid: 0b2a23f2fbb068a49ae8f1ec0c7a17ba
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: tile_gamebps1_0
-  - first:
-      213: 21300002
-    second: tile_gamebps1_1
-  - first:
-      213: 21300004
-    second: tile_gamebps1_2
-  - first:
-      213: 21300006
-    second: tile_gamebps1_3
-  - first:
-      213: 21300008
-    second: tile_gamebps1_4
-  - first:
-      213: 21300010
-    second: tile_gamebps1_5
-  - first:
-      213: 21300012
-    second: tile_gamebps1_6
-  - first:
-      213: 21300014
-    second: tile_gamebps1_7
-  - first:
-      213: 21300016
-    second: tile_gamebps1_8
-  - first:
-      213: 21300018
-    second: tile_gamebps1_9
+  fileIDToRecycleName:
+    21300000: tile_gamebps1_0
+    21300002: tile_gamebps1_1
+    21300004: tile_gamebps1_2
+    21300006: tile_gamebps1_3
+    21300008: tile_gamebps1_4
+    21300010: tile_gamebps1_5
+    21300012: tile_gamebps1_6
+    21300014: tile_gamebps1_7
+    21300016: tile_gamebps1_8
+    21300018: tile_gamebps1_9
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -50,12 +30,9 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -65,8 +42,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
-    mipBias: 0
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -87,17 +64,11 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -108,8 +79,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -120,8 +90,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
+  - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -132,31 +101,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo Switch
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -176,7 +120,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1bccec5550489b549811972415001b0a
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -197,7 +140,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aefaa2c0b6384534da803f62c0b3287f
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -218,7 +160,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49f6887b0e46e5744a17df4acb9b232a
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -239,7 +180,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e9aac03641bd6cb469f67cc3a42590ed
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -260,7 +200,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71ab9ea33be41b6429df63de6048b877
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -281,7 +220,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 002089d5b00d5e446bc19161a7495216
-      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -302,7 +240,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2aaa17a217161cd42b43c1145cd26519
-      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -323,7 +260,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42dd206492cc06349b71a731931ce6e4
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -344,7 +280,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db9abd049980ad14086313073b1d238a
-      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -365,7 +300,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bfb9bf1e789bea04aa29517e028cd675
-      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -374,25 +308,13 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: ead6b658db68c9e4290d7095de0d4421
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      tile_gamebps1_6: 21300012
-      tile_gamebps1_9: 21300018
-      tile_gamebps1_4: 21300008
-      tile_gamebps1_2: 21300004
-      tile_gamebps1_0: 21300000
-      tile_gamebps1_7: 21300014
-      tile_gamebps1_1: 21300002
-      tile_gamebps1_8: 21300016
-      tile_gamebps1_3: 21300006
-      tile_gamebps1_5: 21300010
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
